@@ -19,6 +19,7 @@
 Para execuções: cucumber, em linha de comando
 
 #Estrutura da automação:
+
 	- Pasta feature (contem as subpastas de codigos)
 	- Subpasta step_definitions (contem a logica como classes e funções)
 	- Subpasta support (contem os arquivos de configurações de ambientes e outros)
